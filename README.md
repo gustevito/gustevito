@@ -1,8 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-<strong>Oi!</strong> Meu nome é Gustavo Flores, trabalho (e me divirto) como desenvolvedor Frontend e UI/UX Designer desde 2021, mas meu contato e interesse com a tecnologia se estende desde os meus 4 anos de idade. Nas horas vagas sou editor audivovisual, e lutador de Muay Thai!
-</p>
+<strong>Oi! 👋</strong> </p>
+<p align="left">Meu nome é Gustavo Flores, trabalho (e me divirto) como desenvolvedor Frontend e UI/UX Designer desde 2021, mas meu contato e interesse com a tecnologia se estende desde os meus 4 anos de idade. Nas horas vagas sou editor audivovisual, e lutador de Muay Thai!</p>
+
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,js,html,css)](https://skillicons.dev)
 
