@@ -3,6 +3,9 @@
 <p align="left"> 
 <strong>Oi! 👋</strong><br><br>Meu nome é Gustavo Flores, trabalho (e me divirto) como desenvolvedor Frontend e UI/UX Designer desde 2021, mas meu contato e interesse com a tecnologia se estende desde os meus 4 anos de idade. Nas horas vagas sou editor audivovisual, e lutador de Muay Thai! </p>
 
+<p align="left"> 
+Estou atualmente me aprimorando em Flutter e Dart, desenvolvendo o meu próprio aplicativo de notas para Android e iOS!</p>
+
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,js,html,css)](https://skillicons.dev)
 
