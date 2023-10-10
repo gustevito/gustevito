@@ -17,7 +17,7 @@ Estou atualmente me aprimorando em Flutter e Dart, desenvolvendo o meu próprio 
   <a href="dev.gustavo.flores@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=dev.gustavo.flores@gmail.com" /></a>
 
-  <a href="https://www.](https://www.linkedin.com/in/gustavo-fagundes-flores" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/gustavo-fagundes-flores/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-fagundes-flores/" /></a>
 
   <!-- a href="#" alt="WhatsApp">
@@ -26,7 +26,7 @@ Estou atualmente me aprimorando em Flutter e Dart, desenvolvendo o meu próprio 
   <a href="#" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a-->
 
-  <a href="instagram.com/gustevito" alt="Instagram">
+  <a href="https://www.instagram.com/gustevito/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=instagram.com/gustevito"/></a>
 </p>
 
