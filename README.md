@@ -1,16 +1,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-<strong>Oi! 👋</strong><br><br>Meu nome é Gustavo Flores, trabalho (e me divirto) como desenvolvedor Frontend e UI/UX Designer desde 2021, mas meu contato e interesse com a tecnologia se estende desde os meus 4 anos de idade. Nas horas vagas sou editor audivovisual, e lutador de Muay Thai! </p>
+<strong>Hi! 👋</strong><br><br>My name is Gustavo Flores, I've been working (and having fun) as a Frontend developer and UI/UX Designer since 2021, but my connection and interest in technology go back to when I was just 4 years old. In my spare time, I like to edit videos, drink coffee, create stuff, and fight Muay Thai!<br><sub> (actually the "drinking coffee" part is almost anytime) <sub></p>
 
+
+
+
+<br>
 <p align="left"> 
-Estou atualmente me aprimorando em Flutter e Dart, desenvolvendo o meu próprio aplicativo de notas para Android e iOS!</p>
+I'm currently honing my skills in Flutter and Dart, while developing my own note-taking app for Android and iOS!</p>
 
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,js,html,css)](https://skillicons.dev)
 
 <p align="left">
-  💌 Entre em contato comigo pelas minhas redes sociais: ⤵️
+  💌 Feel free to contact me on my social medias anytime: ⤵️
 </p>
 
 <p align="left">
