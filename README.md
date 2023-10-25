@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-<strong>Hi! 👋</strong><br><br>My name is Gustavo Flores, I've been working (and having fun) as a Frontend developer and UI/UX Designer since 2021, but my connection and interest in technology go back to when I was just 4 years old. In my spare time, I like to edit videos, drink coffee, create stuff, and fight Muay Thai!<br><sub> (actually the "drinking coffee" part is almost anytime) <sub></p>
+<strong>Hi! 👋</strong><br><br>My name is Gustavo Flores, I've been working (and having fun) as a Frontend developer and UI/UX Designer since 2021, but my connection and interest in technology go back to when I was just 4 years old. In my spare time, I like to edit videos, drink coffee, create stuff, and fight Muay Thai!<br><sub> (actually the "drinking coffee" part is basically anytime) <sub></p>
 
 
 
