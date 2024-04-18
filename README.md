@@ -11,7 +11,7 @@
 I'm currently honing my skills in Flutter and Dart, while developing my own note-taking app for Android and iOS!</p>
 
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,js,css,html)](https://skillicons.dev)
 
 <p align="left">
   💌 Feel free to contact me on my social medias anytime: ⤵️
