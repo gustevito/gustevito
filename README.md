@@ -2,7 +2,7 @@
 
 <p align="left"> 
 <strong>Professional Bug Creator in Java and Flutter projects.</strong>
-<p>Computer Science | <strong>PUCRS</strong> (4th Semester)</p>
+<p>Computer Science | <strong>PUCRS</strong> (5th Semester)</p>
 
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,java)](https://skillicons.dev)
